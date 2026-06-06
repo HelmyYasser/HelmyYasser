@@ -57,6 +57,7 @@ I focus on building scalable automation frameworks, improving product quality, a
 <img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium"/>
 <img src="https://img.shields.io/badge/TestNG-E33332?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD4A?style=for-the-badge&logo=playwright&logoColor=white"/>
 </p>
 
 ### 🔹 API & Performance
@@ -71,6 +72,7 @@ I focus on building scalable automation frameworks, improving product quality, a
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </p>
 
 ### 🔹 DevOps & Collaboration
