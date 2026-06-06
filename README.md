@@ -72,7 +72,7 @@ I focus on building scalable automation frameworks, improving product quality, a
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </p>
 
 ### 🔹 DevOps & Collaboration
